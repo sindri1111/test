@@ -63,7 +63,7 @@ if True:
         message = client.messages.create(
             body=article,
             from_="+19377350301",
-            to="+3546188164"
+            to="+3547745605"
         )
 
 """

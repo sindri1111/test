@@ -1,0 +1,302 @@
+[{'author': 'noreply@blogger.com (Unknown)',
+  'content': 'Tesla Inc (TSLA.O) shareholders on Tuesday asked a judge\xa0 to '
+             "find that Elon Musk forced the company's board of directors into "
+             'a\xa0 deal for SolarCity in 2016 and wanted the CEO convicted, '
+             'the electric … [+3316 chars]',
+  'description': '<table><tr><td></td></tr><tr><td>REUTERS/Mike Blake/File '
+                 'Photo</td></tr>\r\n'
+                 '</table>Tesla Inc (TSLA.O) shareholders on Tuesday asked a '
+                 "judge\xa0 to find that Elon Musk forced the company's board "
+                 'of directors into a\xa0 deal for SolarCity in 2016 and '
+                 'wanted the CEO co…',
+  'publishedAt': '2022-01-19T12:20:00Z',
+  'source': {'id': None, 'name': 'Blogspot.com'},
+  'title': 'Tesla investors urge judge to order Musk repay $13 bln for '
+           'SolarCity deal',
+  'url': 'https://techncruncher.blogspot.com/2022/01/tesla-investors-urge-judge-to-order.html',
+  'urlToImage': 'https://blogger.googleusercontent.com/img/a/AVvXsEj1tcuDavmvXZOY8RMhLyiP-2VKNYEBkZjEHciLGkdeKBkw4filQaWUx_xaM4SVypgi1l65JTg4VdpHhcnWRKP6QSxXdH_i8uqUuhD85gAKtItemvLK49nCzg14w2_C9Wk7lfoqPNgmkNxx_GnoSxsF2qSki7vzeOJoUrGCt7umtIiuZIErhqSAe0It-A=w1200-h630-p-k-no-nu'},
+ {'author': 'https://www.facebook.com/bbcnews',
+  'content': 'By Robin BrantBBC News, Shanghai\r\n'
+             'Image source, Getty Images\r\n'
+             'Image caption, Xinjiang has some of the best snow in China and '
+             'is being pushed as a winter sport hub\r\n'
+             'As the Beijing Winter Olympics draw… [+6439 chars]',
+  'description': 'Many foreign firms hoping to ride the Olympics boom are '
+                 'investing heavily in the troubled region.',
+  'publishedAt': '2022-01-19T00:05:46Z',
+  'source': {'id': 'bbc-news', 'name': 'BBC News'},
+  'title': 'Winter Olympics 2022: China sells Xinjiang as a winter sports hub',
+  'url': 'https://www.bbc.co.uk/news/world-asia-china-59991321',
+  'urlToImage': 'https://ichef.bbci.co.uk/news/1024/branded_news/0751/production/_122737810_ac072e57-8cc9-43e7-8623-42ca116b9e44.jpg'},
+ {'author': None,
+  'content': "NEW DELHI, Jan 19 (Reuters) - India's western Maharashtra state "
+             'on Wednesday urged the federal government to lower tax rates on '
+             'imported cars in the budget on Feb. 1, following calls by '
+             'electric carm… [+1673 chars]',
+  'description': "India's western Maharashtra state on Wednesday urged the "
+                 'federal government to lower tax rates on imported cars in '
+                 'the budget on Feb. 1, following calls by electric carmakers '
+                 'like Tesla <a '
+                 'href="https://www.reuters.com/companies/TSLA.O" '
+                 'target="_blank">(TSLA.…',
+  'publishedAt': '2022-01-19T17:13:00Z',
+  'source': {'id': 'reuters', 'name': 'Reuters'},
+  'title': "India's Maharashtra state bats for Tesla over import tax on EVs - "
+           'Reuters',
+  'url': 'https://www.reuters.com/world/india/indias-maharashtra-state-bats-tesla-over-import-tax-evs-2022-01-19/',
+  'urlToImage': 'https://www.reuters.com/resizer/KPMPn5uzddWsLY_hz1pc26xF91Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OUHORSRUFOJBJ6TD5QKR5RAMA.jpg'},
+ {'author': 'Shreyashi Sanyal',
+  'content': '(Reuters) - Upbeat results from UnitedHealth and Bank of America '
+             'pushed U.S. stock index futures higher on Wednesday, partially '
+             'righting a wobbly start to the fourth-quarter earnings reporting '
+             'season… [+2468 chars]',
+  'description': 'Upbeat results from UnitedHealth and Bank of America pushed '
+                 'U.S. stock index futures higher on Wednesday, partially '
+                 'righting a wobbly start to the fourth-quarter earnings '
+                 'reporting season, while Big Tech stocks also looked set to '
+                 'make a comeback.',
+  'publishedAt': '2022-01-19T12:38:00Z',
+  'source': {'id': 'reuters', 'name': 'Reuters'},
+  'title': 'Futures gain as UnitedHealth, BofA rise on results - Reuters',
+  'url': 'https://www.reuters.com/article/usa-stocks-idUSKBN2JT16P',
+  'urlToImage': 'https://static.reuters.com/resources/r/?m=02&d=20220119&t=2&i=1588305577&r=LYNXMPEI0I0JM&w=800'},
+ {'author': None,
+  'content': 'Jan 19 (Reuters) - Retail investors were less enthusiastic about '
+             'buying the dip in U.S. stocks on Tuesday, the latest sign of a '
+             "possible fatigue after last year's tech-fueled trading frenzy, "
+             'Vanda Re… [+2074 chars]',
+  'description': 'Retail investors were less enthusiastic about buying the dip '
+                 'in U.S. stocks on Tuesday, the latest sign of a possible '
+                 "fatigue after last year's tech-fueled trading frenzy, Vanda "
+                 'Research analysts said in a weekly note.',
+  'publishedAt': '2022-01-19T14:12:00Z',
+  'source': {'id': 'reuters', 'name': 'Reuters'},
+  'title': "Retail investors show signs of fatigue after last year's trading "
+           'frenzy - report - Reuters',
+  'url': 'https://www.reuters.com/business/finance/retail-investors-show-signs-fatigue-after-last-years-trading-frenzy-report-2022-01-19/',
+  'urlToImage': 'https://www.reuters.com/resizer/VIREKt9hJbx994FeNa0tfhn73j8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X6GPXD3YVZK7JPE6W36CVSPV2U.jpg'},
+ {'author': None,
+  'content': 'Jan 19 (Reuters) - Upbeat results from UnitedHealth and Bank of '
+             'America pushed U.S. stock index futures higher on Wednesday, '
+             'partially righting a wobbly start to the fourth-quarter earnings '
+             'reporting… [+2746 chars]',
+  'description': 'Upbeat results from UnitedHealth and Bank of America pushed '
+                 'U.S. stock index futures higher on Wednesday, partially '
+                 'righting a wobbly start to the fourth-quarter earnings '
+                 'reporting season, while Big Tech stocks also looked set to '
+                 'make a comeback.',
+  'publishedAt': '2022-01-19T12:36:00Z',
+  'source': {'id': 'reuters', 'name': 'Reuters'},
+  'title': 'Futures gain as UnitedHealth, BofA rise on results - Reuters',
+  'url': 'https://www.reuters.com/business/futures-gain-unitedhealth-bofa-rise-results-2022-01-19/',
+  'urlToImage': 'https://www.reuters.com/resizer/Og1mCQEAp2zGAIbnfr-ie1H6A-o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SSWTUZB32FNWRMTSIRGX6A7GHU.jpg'},
+ {'author': None,
+  'content': 'The Nasdaq (.IXIC) index tumbled on Wednesday, on track to '
+             'confirm a correction as it briefly shed more than 10% from its '
+             'record closing high on Nov. 19.\r\n'
+             'At 11:14 ET, the Dow Jones Industrial Averag… [+4694 chars]',
+  'description': 'The Nasdaq <a href="https://www.reuters.com/quote/.IXIC" '
+                 'target="_blank">(.IXIC)</a> index tumbled on Wednesday, on '
+                 'track to confirm a correction as it briefly shed more than '
+                 '10% from its record closing high on Nov. 19.',
+  'publishedAt': '2022-01-19T16:42:00Z',
+  'source': {'id': 'reuters', 'name': 'Reuters'},
+  'title': 'Ford, Splash Beverage, semiconductor stocks, U.S. Bancorp - '
+           'Reuters',
+  'url': 'https://www.reuters.com/markets/asia/ford-splash-beverage-semiconductor-stocks-us-bancorp-2022-01-19/',
+  'urlToImage': 'https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=67'},
+ {'author': 'Warren Murray',
+  'content': 'Top story: Johnsons No 10 a culture that needs changing\r\n'
+             'Good morning from me, Warren Murray. Youve got mail, and so has '
+             'the 1922 committee.\r\n'
+             'There is open talk among Conservative MPs of removing Bor… '
+             '[+9627 chars]',
+  'description': 'Johnson’s political fate in the balance as talk of '
+                 'leadership contest grows … Plan B measures could be scrapped '
+                 '… and can Keir Starmer connect with the country?Good morning '
+                 'from me, Warren Murray. You’ve got mail, and so has the 1922 '
+                 'committee. Continue readi…',
+  'publishedAt': '2022-01-19T06:29:30Z',
+  'source': {'id': None, 'name': 'The Guardian'},
+  'title': 'Wednesday briefing: ‘Letters are coming from the left and from the '
+           'right’',
+  'url': 'https://amp.theguardian.com/world/2022/jan/19/wednesday-briefing-no-confidence',
+  'urlToImage': 'https://i.guim.co.uk/img/media/33be281f398fddd6711907d1a224da8450273bac/0_93_1290_774/master/1290.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4319ddbb0676296b6ea5498f2ebf69d3'},
+ {'author': 'Oleksandr Pylypenko',
+  'content': "Today I'll analyze and compare Tesla (TSLA) and Fisker (FSR) to "
+             'determine which electric vehicle (EV) stock is currently the '
+             'better investment.\r\n'
+             'shutterstock.com - StockNews\r\n'
+             'The electric vehicle (EV… [+5361 chars]',
+  'description': "Today I'll analyze and compare Tesla (TSLA) and Fisker (FSR) "
+                 'to determine which electric vehicle (EV) stock is currently '
+                 'the better investment.',
+  'publishedAt': '2022-01-19T15:08:58Z',
+  'source': {'id': None, 'name': 'StockNews.com'},
+  'title': 'Tesla vs. Fisker: Which Electric Vehicle Stock is a Better Buy?',
+  'url': 'https://stocknews.com/news/tsla-fsr-tesla-vs-fisker-which-electric-vehicle-stock-is-a-better-22244276/',
+  'urlToImage': 'https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-413951.jpeg'},
+ {'author': 'Amanda Breen',
+  'content': 'A Tesla driver who was behind the wheel during a fatal crash in '
+             'California in 2019 has been charged with two counts of vehicular '
+             'manslaughter, AP News reports.\r\n'
+             'The Model S\xa0was in Autopilot\xa0when\xa0its … [+1763 chars]',
+  'description': 'Approximately 765,000 Tesla vehicles in the U.S. are '
+                 'equipped with automated driving systems, which can control '
+                 'steering, speed and braking, but cannot yet safely replace '
+                 'human drivers entirely.',
+  'publishedAt': '2022-01-19T15:40:00Z',
+  'source': {'id': None, 'name': 'Entrepreneur'},
+  'title': 'Tesla Driver Is First Person in U.S. to Face Felony Charges After '
+           'a Fatal Crash Involving Autopilot',
+  'url': 'https://www.entrepreneur.com/article/413911',
+  'urlToImage': 'https://assets.entrepreneur.com/content/3x2/2000/1642607224-GettyImages-1128652499.jpg'},
+ {'author': 'Zacks Equity Research',
+  'content': 'FordF recently announced that it will team up with the security '
+             'company ADT Inc. to form a new joint venture (JV) named Canopy, '
+             'which will offer vehicle security systems as an aftermarket '
+             'product.For… [+7084 chars]',
+  'description': 'Ford (F) to join forces with ADT to form a new venture '
+                 'called Canopy that will strengthen vehicle security.',
+  'publishedAt': '2022-01-19T12:45:00Z',
+  'source': {'id': None, 'name': 'Zacks.com'},
+  'title': 'Ford (F) & ADT to Bolster Car Security With Canopy Venture',
+  'url': 'http://www.zacks.com/stock/news/1853738/ford-f-adt-to-bolster-car-security-with-canopy-venture?cid=CS-ENTREPRENEUR-FT-analyst_blog|company_news_-_corporate_actions-1853738',
+  'urlToImage': 'https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413891.jpeg'},
+ {'author': 'Zacks Equity Research',
+  'content': 'Designed to provide broad exposure to the Style Box - Large Cap '
+             'Blend category of the market, the Invesco S&amp;P 500 Equal '
+             'Weight ETF (RSP) is a smart beta exchange traded fund launched '
+             'on 04/24/200… [+5056 chars]',
+  'description': 'Smart Beta ETF report for RSP',
+  'publishedAt': '2022-01-19T11:20:10Z',
+  'source': {'id': None, 'name': 'Zacks.com'},
+  'title': 'Is Invesco S&P 500 Equal Weight ETF (RSP) a Strong ETF Right Now?',
+  'url': 'http://www.zacks.com/stock/news/1853686/is-invesco-s-p-500-equal-weight-etf-rsp-a-strong-etf-right-now?cid=CS-ENTREPRENEUR-FT-smart_beta_etf-1853686',
+  'urlToImage': 'https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413878.jpeg'},
+ {'author': 'Mark Wilson',
+  'content': 'Trains may be an old technology, but they are still remarkable '
+             'machines—operating with roughlyfour times the energy efficiency '
+             'of semitrucks driving on a highway.\r\n'
+             'However, over the past several deca… [+8383 chars]',
+  'description': 'Autonomous, electric freight trains are here to take on '
+                 'semitrucks.\n'
+                 'Trains may be an old technology, but they are still '
+                 'remarkable machines—operating with roughly four times the '
+                 'energy efficiency of semitrucks driving on a highway.Read '
+                 'Full Story',
+  'publishedAt': '2022-01-19T08:00:23Z',
+  'source': {'id': None, 'name': 'Fast Company'},
+  'title': 'Former SpaceX engineers raised $50 million to build a Tesla for '
+           'freight trains',
+  'url': 'https://www.fastcompany.com/90713785/former-spacex-engineers-raised-50-million-to-build-a-tesla-for-freight-trains?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner',
+  'urlToImage': 'https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/01/3-90713785-ex-spacex-engineers-are-building-a-tesla-for-freight-trains.jpg'},
+ {'author': 'Ronan Glon',
+  'content': 'Scuderia Cameron Glickenhaus is serious about competing in the '
+             'Baja 1000 with a hydrogen-powered version of the Boot. It '
+             'unveiled the updated off-roader that it plans to enter in the '
+             'event, it again … [+3131 chars]',
+  'description': 'Filed under:\n'
+                 ' Green,Motorsports,Hydrogen Cars,Off-Road Vehicles,Racing '
+                 'Vehicles,Performance\n'
+                 ' Continue reading Glickenhaus shows the updated Hydrogen '
+                 "Boot it's racing in the Baja 1000\n"
+                 "Glickenhaus shows the updated Hydrogen Boot it's racing in "
+                 'the Baja 1000 ori…',
+  'publishedAt': '2022-01-19T16:10:00Z',
+  'source': {'id': None, 'name': 'Autoblog'},
+  'title': "Glickenhaus shows the updated Hydrogen Boot it's racing in the "
+           'Baja 1000',
+  'url': 'https://www.autoblog.com/2022/01/19/scuderia-cameron-glickenhaus-hydrogen-boot-baja-1000-update/',
+  'urlToImage': 'https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/01/19094102/glickenhaus-hydrogen-boot-2.jpg'},
+ {'author': 'Reuters',
+  'content': 'BERLIN Volkswagen and Bosch have agreed to set up a joint '
+             'venture by the end of this year to equip battery cell factories '
+             'and help make Europe self-sufficient in battery production.\r\n'
+             'The venture will… [+2821 chars]',
+  'description': 'Filed under:\n'
+                 ' Green,Plants/Manufacturing,Volkswagen,Electric\n'
+                 " Continue reading VW and Bosch team up to boost Europe's "
+                 'battery ambitions\n'
+                 "VW and Bosch team up to boost Europe's battery ambitions "
+                 'originally appeared on Autoblog on Wed, 19 Jan 2022 08:50:00 '
+                 'EST. …',
+  'publishedAt': '2022-01-19T13:50:00Z',
+  'source': {'id': None, 'name': 'Autoblog'},
+  'title': "VW and Bosch team up to boost Europe's battery ambitions",
+  'url': 'https://www.autoblog.com/2022/01/19/vw-boscgh-battery-jv-europe/',
+  'urlToImage': 'https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2022-01/b068f010-7929-11ec-8b54-3cbd629a8a5c'},
+ {'author': 'Steve Goldstein',
+  'content': 'You dont see this very often.\r\n'
+             'Leo KoGuan, who according to Bloomberg is the third-largest '
+             'individual shareholder at Tesla \r\n'
+             ' TSLA,\r\n'
+             ' -1.82%\r\n'
+             ',\r\n'
+             ' on Wednesday was publicly lobbying the company over T… [+1004 '
+             'chars]',
+  'description': "The Singapore billionaire wants Tesla's guidance to beat "
+                 'Wall Street estimates.',
+  'publishedAt': '2022-01-19T09:01:00Z',
+  'source': {'id': None, 'name': 'MarketWatch'},
+  'title': 'Key Words: Leading Tesla shareholder makes public request for '
+           'deliveries guidance above Wall Street estimates',
+  'url': 'https://www.marketwatch.com/story/leading-tesla-shareholder-makes-public-request-for-deliveries-guidance-above-wall-street-estimates-11642582898',
+  'urlToImage': 'https://images.mktw.net/im-460924/social'},
+ {'author': 'Katyanna Quach',
+  'content': 'A Tesla driver has seemingly become the first person in the US '
+             'to be charged with vehicular manslaughter for a deadly crash in '
+             "which the vehicle's Autopilot mode was engaged.\r\n"
+             'According to the cops, … [+2106 chars]',
+  'description': 'Prosecution seems to be first of its kind in America\n'
+                 'A Tesla driver has seemingly become the first person in the '
+                 'US to be charged with vehicular manslaughter for a deadly '
+                 "crash in which the vehicle's Autopilot mode was engaged.…",
+  'publishedAt': '2022-01-19T00:58:11Z',
+  'source': {'id': None, 'name': 'Theregister.com'},
+  'title': 'Tesla driver charged with vehicular manslaughter after deadly '
+           'Autopilot crash',
+  'url': 'https://www.theregister.com/2022/01/19/tesla_manslaughter_autopilot/',
+  'urlToImage': 'https://regmedia.co.uk/2018/11/14/shutterstock_1051537178.jpg'},
+ {'author': 'Andreas Donath',
+  'content': 'Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking, '
+             'indem Sie der Nutzung aller Cookies zustimmen.\r\n'
+             ' Details zum Tracking finden Sie im Privacy Center.\r\n'
+             'Skript wurde nicht geladen. Informatio… [+575 chars]',
+  'description': 'Ein Tesla-Fahrer muss sich wegen fahrlässiger Tötung vor '
+                 'Gericht verantworten, weil zwei Menschen ums Leben kamen, '
+                 'als der Tesla auf Autopilot fuhr. (Tesla, Elektroauto)',
+  'publishedAt': '2022-01-19T06:27:02Z',
+  'source': {'id': None, 'name': 'Golem.de'},
+  'title': 'Fahrlässige Tötung: Tesla-Fahrer wegen Unfall durch Autopilot '
+           'angeklagt',
+  'url': 'https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Ffahrlaessige-toetung-tesla-fahrer-wegen-unfall-durch-autopilot-angeklagt-2201-162503-rss.html&referer=https%3A%2F%2Ft.co%2Faec33b70a2',
+  'urlToImage': None},
+ {'author': 'info@hypebeast.com (HYPEBEAST), HYPEBEAST',
+  'content': 'For the first time in history, it’s been reported that sales for '
+             'electric cars have exceeded diesel car sales in Europe.\r\n'
+             'According to a Financial Times report citing research from '
+             'leading Berlin-bas… [+1081 chars]',
+  'description': "For the first time in history, it's been reported that sales "
+                 'for electric cars have exceeded diesel car sales in '
+                 'Europe.According to a Financial Times report citing research '
+                 'from leading Berlin-based analyst Matthias Schmidt, 20 '
+                 'percent of cars sold in the EU…',
+  'publishedAt': '2022-01-19T07:26:35Z',
+  'source': {'id': None, 'name': 'HYPEBEAST'},
+  'title': 'Electric Vehicle Sales Surpass Diesel for First Time in Europe',
+  'url': 'https://hypebeast.com/2022/1/electric-vehicle-sales-surpass-diesel-first-time-europe-news',
+  'urlToImage': 'https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Felectric-vehicle-sales-surpass-diesel-first-time-europe-news-tw.jpg?w=960&cbr=1&q=90&fit=max'},
+ {'author': 'Daniel Mohr',
+  'content': 'Es ist der Traum jedes Aktionärs. Man investiert sein Geld in '
+             'ein Unternehmen, das kaum Umsatz macht, sich mit Verlusten '
+             'herumschlägt und auf das sonst kaum einer einen Pfifferling '
+             'setzt. Entsprechen… [+1190 chars]',
+  'description': 'Biontech, Tesla, Curevac – die Privatanleger hierzulande '
+                 'stecken ihr Geld am liebsten in gewagte Investments. Nicht '
+                 'immer ist ihnen das Glück dabei hold.',
+  'publishedAt': '2022-01-19T14:05:11Z',
+  'source': {'id': None, 'name': 'Faz.net'},
+  'title': 'Hohes Risiko: Die Lieblingsaktien der Deutschen',
+  'url': 'https://www.faz.net/aktuell/finanzen/biontech-tesla-curevac-hohes-risiko-bei-den-lieblingsaktien-17731539.html',
+  'urlToImage': 'https://media0.faz.net/ppmedia/aktuell/1184731997/1.7731538/facebook_teaser_fplus/auf-dass-die-kurse-steigen.jpg'}]
